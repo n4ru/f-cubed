@@ -35,7 +35,7 @@ Once you've got your eligible portal, prepare yourselves for some glyphing. It w
 
 **The most optimal configuration provides 33 *unfracked* hacks *per agent* in 35 minutes, 51 seconds.** *Combined with Fracking, this method allows the equivalent of 130 glyphed hacks in under 45 minutes, split between two agents.*
 
-The minimum result (no fracks, only two mod slots) is 32 hacks (between two agents) in 22 minutes, 30 seconds.
+The minimum result (no fracks, only two mod slots) is 33 hacks (between two agents) in 22 minutes, 30 seconds.
 
 ### Warning!
 
