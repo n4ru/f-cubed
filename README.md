@@ -39,4 +39,4 @@ The minimum result (no fracks, only two mod slots) is 33 hacks (between two agen
 
 ### Warning!
 
-There is one catch. While it should rarely happen, because two mod slots are left open for the first 23 minutes of farming, it is possible to get greifed by a friendly player deploying the other two mods.
+There is one catch. While it should rarely happen, because two mod slots are left open for the first 23 minutes of farming, it is possible to get griefed by a friendly player or noob deploying the other two mods.
