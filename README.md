@@ -40,7 +40,7 @@ Once you've got your eligible portal, prepare yourselves for some glyphing. It w
 1. Knock all mods off the portal with Ultrastrikes. *Make sure to avoid taking out resonators (P8s can tolerate one broken resonator).*
 2. Flip the portal. If one agent is below level 8, have them do the flipping.
 3. Deploy your fracker.
-4. One agent applies a Very Rare Multi-hack. The other agent glyphs the portal, and then applies a Very Rare Heat Sink.
+4. One agent applies a Very Rare Multi-hack. Both agents glyph the portal, and then the other one applies a Very Rare Heat Sink, then Glyphs again.
 5. **HACK AWAY!** The cooldown is 90 seconds. Keep frackers deployed, recharging in between.
 6. After burnout, each agent deploys a Rare Heat Sink to reset the burnout timer. The cooldown is now 50 seconds.
 
