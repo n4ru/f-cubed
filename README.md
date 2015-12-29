@@ -2,6 +2,9 @@
 ### aka Flash Frack Finder
 
 <p align="center">
+<b><a href="https://gitlab.com/n4ru/f-cubed/raw/master/fcubed.user.js">INSTALL F-CUBED</a></b>
+<br>
+<br>
 <img src="/frack.png">
 </p>
 
