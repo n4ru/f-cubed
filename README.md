@@ -8,7 +8,7 @@
 <img src="/frack.png">
 </p>
 
-## Find optimally configured portals for Flash Fracking Farms for two agents.
+## (IITC Plugin) Find optimally configured portals for Flash Fracking Farms for two agents.
 
 Agent & Items requirements:
  * A Level 8 Agent
