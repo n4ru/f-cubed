@@ -1,7 +1,11 @@
 # F-cubed
 ### aka Flash Frack Finder
 
-Find optimally configured portals for Flash Fracking Farms for two agents. 
+<p align="center">
+<img src="/frack.png">
+</p>
+
+## Find optimally configured portals for Flash Fracking Farms for two agents.
 
 Agent & Items requirements:
  * A Level 8 Agent
@@ -14,6 +18,12 @@ Optional but highly recommended:
  * 5 Frackers
  * 1 JARVIS Virus or ADA Refactor
  * 2 Rare Heat Sinks
+
+## How do I use this?
+It's very simple. After installing f-cubed, you will simply see an alert like the one pictured above when you select a portal that is eligible for the method. 
+The easiest way to do this is with the Portal List plugin, which allows you to sort and filter through a list of displayed portals.
+From the alert box you can grab the portal link or grab directions to the portal immediately, using Google Maps.
+#### f-cubed will show alerts for any portals that can become a friendly 8 and have two usable slots (for a VRMH and a VRHS).
 
 ## What are we trying to find?
 In order to execute the F-cubed method of farming, a portal must be found fulfilling one the following requirements:
