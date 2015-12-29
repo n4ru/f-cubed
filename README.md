@@ -46,10 +46,24 @@ Once you've got your eligible portal, prepare yourselves for some glyphing. It w
 
 ## Results
 
-**The most optimal configuration provides 33 *unfracked* hacks *per agent* in 35 minutes, 51 seconds.** *Combined with Fracking, this method allows the equivalent of 130 glyphed hacks in under 45 minutes, split between two agents.*
+**The most optimal configuration provides 33 *unfracked* hacks *per agent* in 35 minutes, 51 seconds.** 
+
+*Combined with Fracking, this method allows the equivalent of 130 glyphed hacks in under 45 minutes, split between two agents.*
 
 The minimum result (no fracks, only two mod slots) is 33 hacks (between two agents) in 22 minutes, 30 seconds.
+
+# Example Configurations
+
+| Configuration | Total Hack Output * | Frackers Required | Mod Slots Required | Burnout Reset | Best For
+|:------------:|:---------------:|:-----:|:--:|:-:|:-:
+| 2 VRMH / VRHS + RHS **or** AXA | 134 **or** 90 | 6 **or** 4 | 4 | 1 | **Home Portals**
+| **VRMH / VRHS + 2 RHS** | **130** | **4** | **4** | **2** | **Flash Hacking**
+| 3 VRMH / VRHS | 114 | 5 | 4 | 0 | *Nothing. Don't do this.*
+| VRMH / VRHS | 66 | 3 | 2 | 0 | **Low on Slots / Low on Time**
+
+* Frack outputs are included in this calculation.
 
 ### Warning!
 
 There is one catch. While it should rarely happen, because two mod slots are left open for the first 23 minutes of farming, it is possible to get griefed by a friendly player or noob deploying the other two mods.
+
